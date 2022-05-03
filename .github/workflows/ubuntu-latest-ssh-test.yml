@@ -1,4 +1,4 @@
-name: SSH
+name: ubuntu-latest-SSH
 
 on:
   workflow_dispatch:
