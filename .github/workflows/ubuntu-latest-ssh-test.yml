@@ -9,6 +9,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Setup upterm session
-      uses: lhotari/action-upterm@v1
+      uses: olifre/action-upterm@v1
       with:
         limit-access-to-actor: true
