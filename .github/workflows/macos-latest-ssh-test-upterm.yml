@@ -1,4 +1,4 @@
-name: macos-latest-SSH
+name: macos-latest-SSH-upterm
 
 on:
   workflow_dispatch:
